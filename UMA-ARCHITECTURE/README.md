@@ -95,5 +95,8 @@ make run
 4. **GC runs in background** — no full program pause
 5. **Scope exit = immediate cleanup** — no waiting for GC
 
+## NOTE :-)
+**Use this code for developement, not expliotation**
+
 ---
-*Architecture by God | MSF Library | Part of the UEMV Architecture*
+*Architecture by JAI PARTHASARATHY M | MSF Library | Part of the UMA Architecture*
